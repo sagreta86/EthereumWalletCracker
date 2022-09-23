@@ -1,7 +1,7 @@
 # EthereumWalletCracker
 Etherum Python Script to search for private keys
 
-![alt-text](link)
+![](https://github.com/sagreta86/EthereumWalletCracker/raw/main/proof.gif)
 
 https://satoshidisk.com/pay/CGVOkk
 
