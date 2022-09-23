@@ -1,4 +1,4 @@
-# EthereumWalletCracker
+# Ethereum Wallet Cracker
 Etherum Python Script to search for private keys
 
 ![](https://github.com/sagreta86/EthereumWalletCracker/raw/main/proof.gif)
@@ -14,13 +14,21 @@ The file is really small but it is very powerful.
 Either click on the link above to purchase this script with bitcoin or reach out to me by email for all others: sagreta86@proton.me
 
 Necessary Requirements:
+
 sudo apt install -y python3-dev
+
 sudo apt install -y python3-pip
+
 sudo apt install -y python-is-python3
+
 sudo pip3 uninstal sha3
+
 sudo pip3 uninstall pysha3
+
 sudo pip3 install pysha3
+
 sudo pip3 install rich lxml hdwallet web3
+
 sudo pip3 pip install pycryptodome
 
 Profit????
