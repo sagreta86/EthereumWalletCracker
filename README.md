@@ -27,6 +27,8 @@ Profit????
 Donations are appreciated!
 
 Bitcoin: 13umeL7LCuvVb5q8Y7EpfBSmR4gDV22NYR
+
 Ethereum/BSC/Matic: 0x700250c60478c8A9339E599698CdC3125bacBC87
+
 TRX: TZ4eaSyQLLUiu7RQb4HNQqNtpDt6TUDQtp
 
